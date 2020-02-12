@@ -1,0 +1,13 @@
+com\codigos\mexico\restservice\repository\ZipCodesRepository.class
+com\codigos\mexico\restservice\controller\ZipCodesController.class
+com\codigos\mexico\restservice\entity\User.class
+com\codigos\mexico\restservice\Application.class
+com\codigos\mexico\restservice\repository\ZipCodesRepositoryImp.class
+com\codigos\mexico\restservice\repository\UserRepository.class
+com\codigos\mexico\restservice\repository\ZipCodesRepositoryImp$1.class
+com\codigos\mexico\restservice\entity\ZipCodes.class
+com\codigos\mexico\restservice\entity\Asentamiento.class
+com\codigos\mexico\restservice\repository\ZipCodesRepoC.class
+com\codigos\mexico\restservice\SecurityConfig.class
+com\codigos\mexico\restservice\controller\UserController.class
+com\codigos\mexico\restservice\entity\ZipCodesResponse.class
